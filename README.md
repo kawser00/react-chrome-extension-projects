@@ -14,9 +14,9 @@ A simple counter chrome extension project with ReactJs using chrome content scri
 Clone repo
 
 ```
-git clone https://github.com/kawser00/react-counter-chrome-extension.git
+git clone https://github.com/kawser00/react-chrome-extension-projects.git
 ```
-Go to `react-counter-chrome-extension` directory run
+Go to `react-chrome-extension-projects` directory run
 
 ```
 npm install
