@@ -1,0 +1,25 @@
+.extension_wrapper {
+  padding: 20px;
+}
+.extension_wrapper h1 {
+  margin-bottom: 0;
+  color: #8f8a8a;
+  font-size: 45px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.button_wrapper {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-top: 1rem;
+}
+
+.button_wrapper button {
+  background-color: #dcd4d4;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 18px;
+  color: #4b4545;
+  cursor: pointer;
+}
